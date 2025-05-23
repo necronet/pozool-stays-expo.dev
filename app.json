@@ -37,6 +37,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bf5d3c83-2d71-4405-b97c-0b073011490c"
+      }
+    },
+    "owner": "necronet"
   }
 }
